@@ -57,10 +57,7 @@ and place orders via a checkout modal.
 2 .npm install
 
 3 .Start the React app:
-
-npm start
-
+   npm start
 4. Start your backend :
-
-node backend/app.js
+   node backend/app.js
 
